@@ -1,2 +1,0 @@
-C:\Users\Domingos\Documents\First Unity Project\FirstProject\Temp\UnityVS_obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
-C:\Users\Domingos\Documents\First Unity Project\FirstProject\Temp\UnityVS_obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
